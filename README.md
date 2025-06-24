@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-Hi! I’m **Khayer Hossain** — a frontend web developer from Bangladesh 🇧🇩  
+Hi! I’m **Khayer Hossain** a frontend web developer from Bangladesh 🇧🇩  
 I love building beautiful and functional user interfaces using modern tech like React, Tailwind, and Firebase.
 
 I enjoy solving problems and learning new tools every day. I believe in clean code, teamwork, and continuous growth.
@@ -58,8 +58,6 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="react-router" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/71573509?s=200&v=4" alt="daisyui" width="40" height="40"/>
 </p>
 
 ---
