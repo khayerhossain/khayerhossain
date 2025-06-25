@@ -55,7 +55,12 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+  alt="express" 
+  width="40" height="40" 
+  style="filter: brightness(0) invert(1);" 
+/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>
 </p>
@@ -73,5 +78,3 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khayerhossain&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khayerhossain&theme=react-dark)
