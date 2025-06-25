@@ -55,7 +55,7 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
+  src="https://i.ibb.co/PvPWFHs9/Express.png" 
   alt="express" 
   width="40" 
   height="40"
