@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/LzXzZ7f7/Chat-GPT-Image-Jun-25-2025-03-32-19-PM.png" alt="Top Banner" width="100%" height="250px" style="object-fit: cover;" />
+<img src="https://i.ibb.co/LzXzZ7f7/Chat-GPT-Image-Jun-25-2025-03-32-19-PM.png" alt="Top Banner" width="100%" height="280px" style="object-fit: cover;" />
 
 <h1 align="center">Hi 👋, I'm Khayer Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
