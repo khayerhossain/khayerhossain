@@ -55,10 +55,10 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 <img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
   alt="express" 
-  width="40" height="40" 
-  style="filter: brightness(0) invert(1);" 
+  width="40" 
+  height="40"
 />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>
