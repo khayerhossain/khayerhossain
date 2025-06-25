@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/LzXzZ7f7/Chat-GPT-Image-Jun-25-2025-03-32-19-PM.png" alt="Top Banner" width="100%" height="220px" style="object-fit: cover;" />
+<img src="https://i.ibb.co/LzXzZ7f7/Chat-GPT-Image-Jun-25-2025-03-32-19-PM.png" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
 
 <h1 align="center">Hi 👋, I'm Khayer Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -28,7 +28,9 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
 ---
 
 ## 🌐 Connect with me
-
+<a href="https://linkedin.com/in/khayerhossain" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" />
+</a>
 <p align="left">
  <a href="https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="facebook" height="30" width="40" style="filter: brightness(0) invert(1);" />
