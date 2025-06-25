@@ -30,9 +30,9 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
+ <a href="https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="facebook" height="30" width="40" style="filter: brightness(0) invert(1);" />
+</a>
   <a href="https://twitter.com/khayerhossain45" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
@@ -75,7 +75,3 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khayerhossain&theme=react-dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=khayerhossain&theme=radical)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khayerhossain&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/khayerhossain/YOUR_REPO_NAME)
