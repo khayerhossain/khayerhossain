@@ -27,9 +27,6 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
 ---
 
 ## 🌐 Connect with me
-<a href="https://linkedin.com/in/khayerhossain" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" />
-</a>
 <p align="left">
  <a href="https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="facebook" height="30" width="40" style="filter: brightness(0) invert(1);" />
@@ -43,6 +40,9 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <a href="https://discord.gg/khayerhossain_45" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
+  <a href="https://linkedin.com/in/khayerhossain" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" />
+</a>
 </p>
 
 ---
