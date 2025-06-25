@@ -16,7 +16,7 @@ I enjoy solving problems and learning new tools every day. I believe in clean co
 
 ### 💼 Currently:
 - 🌱 Learning **Node.js** & **Express.js**
-- 🔨 Working on **Swift-Shift** project
+- 🔨 Working on **Delivery** project
 - 🧪 Exploring **Full Stack Development**
 - ✍️ Practicing daily by building projects
 
