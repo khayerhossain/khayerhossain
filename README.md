@@ -4,8 +4,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" width="400" src="https://i.ibb.co/KjXmX9vw/Chainstarters.gif" alt="coding" />
 
-![Banner](https://i.ibb.co/BCmXmr8/dev-banner-dark.png)
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20views&color=0e75b6&style=flat" alt="khayerhossain" />
 </p>
