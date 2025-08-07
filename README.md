@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/LzXzZ7f7/Chat-GPT-Image-Jun-25-2025-03-32-19-PM.png(https://i.ibb.co.com/M5NKTY8b/Black-and-White-Illustrative-Linkedin-Banner.png)" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
+<img src="[(https://i.ibb.co/LzXzZ7f7/Chat-GPT-Image-Jun-25-2025-03-32-19-PM.png(https://i.ibb.co.com/M5NKTY8b/Black-and-White-Illustrative-Linkedin-Banner.png)](https://i.ibb.co.com/M5NKTY8b/Black-and-White-Illustrative-Linkedin-Banner.png)" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
 
 
 <img align="right" width="400" src="https://i.ibb.co/KjXmX9vw/Chainstarters.gif" alt="coding" />
