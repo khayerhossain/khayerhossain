@@ -40,9 +40,9 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <a href="https://linkedin.com/in/khayerhossain" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/khayerhossain" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://instagram.com/khayerhossain" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
-  </a>
+  </a> -->
 </p>
 
 
