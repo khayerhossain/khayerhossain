@@ -26,24 +26,25 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" height="30" width="30" />
   </a>
   <a href="https://twitter.com/khayerhossain45" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="Twitter" height="30" width="30" />
   </a>
   <a href="https://github.com/khayerhossain" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" />
   </a>
   <a href="https://discord.gg/khayerhossain_45" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/khayerhossain" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://instagram.com/khayerhossain" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
+
 
 
 ---
@@ -58,7 +59,7 @@ I’m open to collaboration and excited to join real-world dev teams soon 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="70" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
