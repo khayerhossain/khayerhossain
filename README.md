@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/M5NKTY8b/Black-and-White-Illustrative-Linkedin-Banner.png" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
+<img src="https://i.ibb.co.com/v6CNXfJ2/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
 
 <img align="right" width="400" src="https://i.ibb.co/KjXmX9vw/Chainstarters.gif" alt="coding" />
 
