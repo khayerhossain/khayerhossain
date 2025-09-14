@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/v6CNXfJ2/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
 
-<img align="right" width="400" src="https://i.ibb.co/KjXmX9vw/Chainstarters.gif" alt="coding" />
+<img align="right" width="400" src="https://i.ibb.co.com/rRmmppbQ/Gazprom-Space-systems.gif" alt="coding" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20views&color=0e75b6&style=flat" alt="khayerhossain" />
