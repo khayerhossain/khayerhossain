@@ -15,7 +15,7 @@ I enjoy solving problems and learning new tools every day. I believe in clean co
 
 ### 💼 Currently:
 - 🌱 Learning **React Native**
-- 🔨 Working on **Skill Swap Project** project
+- 🔨 Working on **Skill Swap** project
 - 🧪 Exploring **Full Stack Development**
 - ✍️ Practicing daily by building projects
 
