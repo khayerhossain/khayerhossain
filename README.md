@@ -14,8 +14,8 @@ I love building beautiful and functional user interfaces using modern tech like 
 I enjoy solving problems and learning new tools every day. I believe in clean code, teamwork, and continuous growth.
 
 ### 💼 Currently:
-- 🌱 Learning **Next.js** & **React Native**
-- 🔨 Working on **Delivery** project
+- 🌱 Learning **React Native**
+- 🔨 Working on **Skill Swap Project** project
 - 🧪 Exploring **Full Stack Development**
 - ✍️ Practicing daily by building projects
 
