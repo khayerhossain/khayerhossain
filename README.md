@@ -1,80 +1,97 @@
-<img src="https://i.ibb.co.com/v6CNXfJ2/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Top Banner" width="100%" height="210px" style="object-fit: cover;" />
+<div align="center">
+  <img src="https://i.ibb.co.com/v6CNXfJ2/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Header Banner" width="100%" />
+</div>
 
-<img align="right" width="400" src="https://i.ibb.co.com/rRmmppbQ/Gazprom-Space-systems.gif" alt="coding" />
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20Views&color=6366f1&style=flat-square)
+  
+</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20views&color=0e75b6&style=flat" alt="khayerhossain" />
-</p>
+<br/>
 
-## 🧠 About Me
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/rRmmppbQ/Gazprom-Space-systems.gif" />
 
-Hi! I’m **Khayer Hossain** a frontend web developer from Bangladesh 🇧🇩  
-I love building beautiful and functional user interfaces using modern tech like React, Tailwind, and Firebase.
+## Hey there, I'm Khayer Hossain
 
-I enjoy solving problems and learning new tools every day. I believe in clean code, teamwork, and continuous growth.
+### Frontend Developer | React Enthusiast | Bangladesh
 
-### 💼 Currently:
-- 🌱 Learning **React Native**
-- 🔨 Working on **Skill Swap** project
-- 🧪 Exploring **Full Stack Development**
-- ✍️ Practicing daily by building projects
+I'm passionate about crafting beautiful, intuitive user experiences with clean code and modern web technologies. I thrive on turning complex problems into elegant solutions.
 
-I’m open to collaboration and excited to join real-world dev teams soon 🚀
+<br/>
 
----
+### Currently
 
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/khayerhossain45" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="Twitter" height="30" width="30" />
-  </a>
-  <a href="https://github.com/khayerhossain" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" />
-  </a>
-  <a href="https://discord.gg/khayerhossain_45" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/khayerhossain" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-<!--   <a href="https://instagram.com/khayerhossain" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
-  </a> -->
-</p>
+```javascript
+const khayer = {
+  learning: "React Native",
+  building: "Skill Swap Project",
+  exploring: "Full Stack Development",
+  seeking: "New opportunities and collaboration"
+};
+```
 
-
+<br clear="right"/>
 
 ---
 
-## 🛠️ My Tech Stack
+## Connect
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://i.ibb.co/RTyThG2T/136-1363736-express-js-icon-png-transparent-png.jpg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+<div align="left">
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1GS4VLNGNv/?mibextid=wwXIfr)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/khayerhossain45)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khayerhossain)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/khayerhossain_45)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khayerhossain)
 
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khayerhossain&show_icons=true&locale=en&theme=radical" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khayerhossain&theme=radical" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khayerhossain&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khayerhossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayerhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayerhossain&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khayerhossain&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  
+  Made with dedication by Khayer Hossain
+  
+</div>
