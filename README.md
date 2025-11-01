@@ -23,7 +23,7 @@ I'm passionate about crafting beautiful, intuitive user experiences with clean c
 ### Currently
 
 ```javascript
-const khayer = {
+const KhayerHossain = {
   learning: "React Native",
   building: "Skill Swap Project",
   exploring: "Full Stack Development",
