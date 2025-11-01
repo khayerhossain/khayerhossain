@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/v6CNXfJ2/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Header Banner" width="100%" />
 </div>
 
-<div align="center">
+<div align="">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20Views&color=6366f1&style=flat-square)
   
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/rRmmppbQ/Gazprom-Space-systems.gif" />
 
-## Hey there, I'm Khayer Hossain🇧🇩
+## Hey there, I'm Khayer Hossain
 
 ### Frontend Developer | React Enthusiast | Bangladesh
 
