@@ -1,26 +1,12 @@
 <div align="center">
-
-# KHAYER HOSSAIN
-
-### Frontend Developer • React Enthusiast • Full Stack Explorer
-
-<p>
-  <img src="https://img.shields.io/badge/Based_in-Bangladesh-01B763?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Frontend_Development-6366f1?style=flat-square&logo=react&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Work-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-Proficient-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
-
+  <img src="https://i.ibb.co.com/v6CNXfJ2/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Header Banner" width="100%" />
 </div>
 
----
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=khayerhossain&label=Profile%20Views&color=6366f1&style=flat-square)
+  
+</div>
 
 <br/>
 
@@ -37,7 +23,7 @@ I'm passionate about crafting beautiful, intuitive user experiences with clean c
 ### Currently
 
 ```javascript
-const khayer = {
+const KhayerHossain = {
   learning: "React Native",
   building: "Skill Swap Project",
   exploring: "Full Stack Development",
