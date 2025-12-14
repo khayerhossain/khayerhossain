@@ -75,7 +75,7 @@ const KhayerHossain = {
 
 ## GitHub Statistics
 
-<!-- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khayerhossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayerhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
@@ -85,8 +85,12 @@ const KhayerHossain = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khayerhossain&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
-</div> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khayerhossain&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://git-wrapped.com/api/wrapped/khayerhossain" alt="Git Wrapped Stats" width="800"/>
+</div>
 
 ---
 
