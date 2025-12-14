@@ -88,8 +88,45 @@ const KhayerHossain = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khayerhossain&theme=tokyonight" alt="Profile Details" />
 </div>
 
+---
+
+## 📊 Git Wrapped Stats
+
 <div align="center">
-  <img src="https://git-wrapped.com/api/wrapped/khayerhossain" alt="Git Wrapped Stats" width="800"/>
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/👑_Universal_Rank-Top_2%25-orange?style=for-the-badge&labelColor=1a1a1a" alt="Universal Rank"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/⚡_Longest_Streak-101_days-cyan?style=for-the-badge&labelColor=1a1a1a" alt="Longest Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/🏆_Total_Commits-1,492-pink?style=for-the-badge&labelColor=1a1a1a" alt="Total Commits"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/📅_Most_Active_Month-July-purple?style=for-the-badge&labelColor=1a1a1a" alt="Most Active Month"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/📊_Most_Active_Day-Wednesday-yellow?style=for-the-badge&labelColor=1a1a1a" alt="Most Active Day"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/⭐_Total_Stars-2-blue?style=for-the-badge&labelColor=1a1a1a" alt="Total Stars"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/🚀_Top_Language-JavaScript-blue?style=for-the-badge&labelColor=1a1a1a" alt="Top Language"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/⚡_Power_Level-Elite_Class-yellow?style=for-the-badge&labelColor=1a1a1a" alt="Power Level"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
