@@ -75,7 +75,7 @@ const KhayerHossain = {
 
 ## GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khayerhossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayerhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
@@ -85,68 +85,8 @@ const KhayerHossain = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khayerhossain&theme=tokyonight" alt="Profile Details" />
-</div>
-
----
-
-## 📊 GitHub Wrapped 2024
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=khayerhossain&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="50%" style="border: none;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=khayerhossain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=📊%20GitHub%20Stats" alt="GitHub Stats"/>
-      </td>
-      <td align="center" width="50%" style="border: none;">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=khayerhossain&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FB8817&fire=FB8817&currStreakLabel=FB8817" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khayerhossain&bg_color=0d1117&color=FB8817&line=FB8817&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khayerhossain&theme=radical" alt="Profile Summary" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khayerhossain&theme=radical" alt="Top Languages by Repo" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khayerhossain&theme=radical" alt="Top Languages by Commit" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khayerhossain&theme=radical" alt="Stats" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khayerhossain&theme=radical&utcOffset=6" alt="Commit Time" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khayerhossain&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+</div> -->
 
 ---
 
